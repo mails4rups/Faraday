@@ -2,10 +2,16 @@
 	"name": "Faraday Dark Theme",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"editor.background": "#1d252c",
+		"activityBar.border": "#262e36",
+		"activityBar.foreground": "#62737f",
+		"activityBarBadge.background": "#08c7a7fb",
+		"activityBarBadge.foreground": "#1d252c",
+		"badge.background": "#66737f",
+		"badge.foreground": "#ffffff",
+		"button.background": "#3c9477fa",
+		"button.foreground": "#ffffff",
+		"button.hoverBackground": "#08976cfb",
 	},
 	"tokenColors": [
 		{
