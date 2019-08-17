@@ -1,0 +1,21 @@
+{
+    "name": "Faraday",
+    "displayName": "Faraday",
+    "description": "Dark theme for coding purpose",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.37.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Faraday Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Faraday Dark Theme-color-theme.json"
+            }
+        ]
+    }
+}
